@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-- 🔭 I’m currently working on [Rate My Form](n/a)
+- 🔭 I’m currently working on [Rate My Form](https://github.com/alexnham/rate-my-form)
 
-- 🌱 I’m currently learning **C++, Flutter,**
-
-- 👯 I’m looking to collaborate on [Anything!](n/a)
+- 🌱 I’m currently learning **C++**
 
 - 👨‍💻 Learn More at [alexnham.com](alexnham.com)
 
-- 📫 How to reach me **alexnham11@gmail.com**
+- 📫 Reach me at **alexnham11@gmail.com**
 
 - ⚡ Fun fact **I dabble in the gym sometimes**
 
