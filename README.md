@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👨‍💻 Learn More at [alexnham.com](https:/www.alexnham.com)
+- 👨‍💻 Learn More at <a href="https:/www.alexnham.com" target="_blank">[alexnham.com]<a/>
 
 - 📫 Reach me at **alexnham11@gmail.com**
 
