@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-- 🔭 I’m currently working on [Rate My Form](https://github.com/alexnham/rate-my-form)
+- 🔭 I’m currently working on [Solana Coinflip](https://github.com/alexnham/coinflip)
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C++, Rust within Solana**
 
 - 👨‍💻 Learn More at <a href="https://www.alexnham.com" target="_blank">alexnham.com</a>
 
