@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-- 🔭 I’m currently working on [Solana Coinflip](https://github.com/alexnham/coinflip)
+- 🔭 I’m currently working on [Solana Coinflip](https://github.com/alexnham/solana_coinflip)
 
 - 🌱 I’m currently learning **C++, Rust within Solana**
 
