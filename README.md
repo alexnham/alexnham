@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-- 🔭 I’m currently working on [Solana Coinflip](https://github.com/alexnham/Solana-Coinflip)
+- 🔭 I’m currently working on LeetCode
 
-- 🌱 I’m currently learning **Godot (and C#), Rust within Solana**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 Learn More at <a href="https://www.alexnham.com" target="_blank">alexnham.com</a>
 
