@@ -1,10 +1,10 @@
 # Hi 👋, I'm Alex
-## A passionate Software Developer
+## A passionate Software Engineer
 
 ```java
 public class Alex {
     private int age = 20;
-    public String school = "Western University - Specialization in Computer Science"
+    public String school = "Western University - Specialization in Computer Science Minor in Software Engineering"
     public String[] interests = new String[] { "Fitness", "Learning", "Web Development", "Blockchain", "Artificial Intelligence" }
 
 }
