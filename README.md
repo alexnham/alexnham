@@ -4,9 +4,8 @@
 ```java
 public class Alex {
     private int age = 20;
-    public String school = "Western University - Specialization in Computer Science Minor in Software Engineering"
+    public String school = "Western University - Honours Specialization in Computer Science Minor in Software Engineering"
     public String[] interests = new String[] { "Fitness", "Learning", "Web Development", "Blockchain", "Artificial Intelligence" }
-
 }
 ```
 
