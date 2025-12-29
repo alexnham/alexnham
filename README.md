@@ -5,7 +5,7 @@
 public class Alex {
     private int age = 21;
     private String current = "Celestica"
-    public String school = "Western University - Honours Specialization in Computer Science Minor in Software Engineering"
+    public String school = "Western University - Honours Specialization in Computer Science"
     public String[] interests = new String[] { "Fitness", "Learning", "Web Development", "Blockchain", "Artificial Intelligence" }
 }
 ```
@@ -35,7 +35,7 @@ public class Alex {
 
 [![Game Development](https://skillicons.dev/icons?i=unreal,cs,godot&theme=dark)](https://skillicons.dev)
 
-[![Tools](https://skillicons.dev/icons?i=vscode,postman,heroku,github,figma,eclipse,docker&theme=dark)](https://skillicons.dev)
+  [![Tools](https://skillicons.dev/icons?i=azure,vscode,postman,heroku,github,figma,eclipse,docker&theme=dark)](https://skillicons.dev)
 
 
 
