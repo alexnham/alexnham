@@ -12,9 +12,8 @@ public class Alex {
 
 ## :round_pushpin: Currently:
 
-- 🔭 Practicing LeetCode
+- 🌱 Coding Sphere
 
-- 🌱 Learning **Rust**
 
 # Connect with me:
 <a href="https://alexnham.com" target="_blank">
