@@ -30,7 +30,7 @@ public class Alex {
 # Tech Stack
 [![Web Dev](https://skillicons.dev/icons?i=html,css,js,ts,mongodb,express,react,angular,nodejs,tailwind,next,mysql&theme=dark)](https://skillicons.dev)
 
-[![Languages](https://skillicons.dev/icons?i=java,python,cpp,c&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,python,cpp,c,rust&theme=dark)](https://skillicons.dev)
 
 [![Game Development](https://skillicons.dev/icons?i=unreal,cs,godot&theme=dark)](https://skillicons.dev)
 
