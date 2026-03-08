@@ -7,6 +7,7 @@ public class Alex {
     private String current = "Celestica"
     public String school = "Western University - Honours Specialization in Computer Science"
     public String[] interests = new String[] { "Fitness", "Learning", "Web Development", "Blockchain", "Artificial Intelligence" }
+    public String contact = "alexnham11@gmail.com"
 }
 ```
 
