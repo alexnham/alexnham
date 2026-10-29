@@ -13,7 +13,7 @@ public class Alex {
 
 ## :round_pushpin: Currently:
 
-- 🌱 Coding Sphere
+- 🌱 Building onchain
 
 
 # Connect with me:
