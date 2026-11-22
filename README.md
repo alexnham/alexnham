@@ -4,9 +4,9 @@
 ```java
 public class Alex {
     private int age = 21;
-    private String current = "Celestica"
+    private String current = "PointClickCare, Celestica"
     public String school = "Western University - Honours Specialization in Computer Science"
-    public String[] interests = new String[] { "Fitness", "Learning", "Web Development", "Blockchain", "Artificial Intelligence" }
+    public String[] interests = new String[] { "Fitness", "Learning", "Blockchain", "Artificial Intelligence" }
     public String contact = "alexnham11@gmail.com"
 }
 ```
